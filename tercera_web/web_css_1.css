@@ -1,0 +1,47 @@
+h4, texto{
+    position: relative;
+    text-align: center;
+    top:25px;
+
+    text-shadow: 3px 3px 5px;
+    color: tomato;
+    font-family: Georgia, Times;
+}
+
+
+div{
+    margin: 100px auto;
+    width: 500px;
+    height: 700px;
+    border: solid 4px black;
+    overflow: scroll;
+    outline: 2px solid red;
+
+    background-color: aquamarine;}
+
+body{
+        
+        background: url(/webhtmal/diego.jpg) no-repeat center bottom ;
+
+}
+.tip{
+    margin:auto;
+    width: 350px;
+    height: 300px;
+    border: solid 5px black;
+   
+    position: relative;
+    top: 10px;
+}
+#fondo{
+        text-align: center;
+      position: relative;
+      text-shadow: 3px 3px 5px;
+      outline: 2px solid red;
+      font-size: 21px;
+}
+p.texto_re{
+
+    text-align: center;
+    font-size: 18px;
+}
